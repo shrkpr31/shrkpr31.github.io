@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shrkpr31.github.io/shreyakapoor/sitemap.xml
+Sitemap: https://shrkpr31.github.io/shreyakapoor/shreyakapoor/sitemap.xml
