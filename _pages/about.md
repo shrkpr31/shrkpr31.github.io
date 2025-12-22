@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Academic Associate</a>, Indian School of Business, Mohali
+subtitle: <a href='#'>Academic Associate</a>, Indian School of Business, Mohali; Former Research Analyst @ IFPRI, New Delhi
 
 profile:
   align: right
