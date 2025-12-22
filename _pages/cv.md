@@ -10,4 +10,3 @@ toc:
   sidebar: left
 ---
 
-[Download CV](assets/pdf/Shreya_Kapoor_resume.pdf)
