@@ -10,3 +10,4 @@ toc:
   sidebar: left
 ---
 
+{% include cv.html %}
