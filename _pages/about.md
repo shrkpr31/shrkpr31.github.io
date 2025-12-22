@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Academic Associate @ ISB Mohali</a>
+subtitle: <a href='#'>Academic Associate</a>, Indian School of Business, Mohali
 
 profile:
   align: right
