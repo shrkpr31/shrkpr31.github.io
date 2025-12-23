@@ -33,3 +33,4 @@ Previously, I worked as a Research Fellow at Plaksha University, assisting facul
 
 I hold a Master’s degree in Economics with specialization in Development Studies from Symbiosis International University. My research interests lie in development economics, applied econometrics, agriculture, and rural livelihoods. I have also worked at the International Food Policy Research Institute (IFPRI), New Delhi, where I contributed to projects on climate-smart agriculture, poverty alleviation, food security and sustainability, and employment and unemployment dynamics.
 
+Click here for my resume
