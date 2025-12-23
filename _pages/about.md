@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
+I am working as an Academic Associate  (Economics) at Indian School of Business, Mohali.
