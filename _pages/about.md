@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: <a href='#'>Academic Associate</a>, Indian School of Business, Mohali
 
 profile:
