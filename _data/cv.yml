@@ -4,7 +4,11 @@ cv:
   contents:
     - name: Name
       value: Shreya Kapoor
-    - name: Label
+    - name: Email
+      value: shr.kpr3108@gmail.com
+    - name: Phone
+      value: +91 9450467196
+    - name: Affliation
       value: Academic Associate
     - name: Languages
       value: English, Hindi
