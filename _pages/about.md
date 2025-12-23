@@ -30,7 +30,7 @@ latest_posts:
   <a href="/assets/pdf/Shreya_Kapoor_resume.pdf"
      target="_blank"
      title="Download CV">
-    <i class="fas fa-file-pdf fa-2x"></i> CV
+    <i class="fas fa-file-pdf fa-2x"></i>
   </a>
 </div>
 
