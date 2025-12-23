@@ -10,4 +10,4 @@ toc:
   sidebar: left
 ---
 
-% _includes/cv/ %
+% {_includes/cv/} %
