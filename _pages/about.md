@@ -26,6 +26,11 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<a class="btn btn-outline-primary"
+   href="/assets/pdf/Shreya_Kapoor_resume.pdf"
+   target="_blank">
+  <i class="fas fa-file-pdf"></i> Download CV
+</a>
 
 I am an Academic Associate (Economics) at the Indian School of Business, Mohali, where I assist faculty in course delivery and provide academic support across a range of subjects including, Managerial Economics, The Business of Food, Artificial Intelligence for Business and Society, Economics for Small and Medium Enterprises, Designing Markets, and Market Competition and Antitrust Policies.
 
