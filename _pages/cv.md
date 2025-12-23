@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
@@ -9,7 +9,3 @@ description:
 toc:
   sidebar: left
 ---
-
-% {_includes/cv/} %
-
-%{_data/cv.yml}%
