@@ -27,7 +27,3 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am working as an Academic Associate  (Economics) at Indian School of Business, Mohali. I am assisting faculties with courses like Managerial Economics, The Business of Food, Economics for Small and Medium Enterprises, Artificial Intelligence for Business and Society, Designing Markets, and Market Competition and Antitrust Policy. Prior to joining ISB, Mohali I was working as a Plaksha Research Fellow at Plaksha University, Mohali assisting faculties with both course delivery and research work. I have assisted faculties with courses like Econometrics, Financial Economics, Macro Development, and Advanced Microeconomics. 
-
-
-I have also worked with International Food Policy Research Institute, New Delhi as a Research Analyst for five years. I have worked on projects related to climate-smart agriculture, employment/unemployemnt, rural development, poverty alleviation, food security, and sustainability. My research interest lies in development economics, applied econometrics, agriculture and rural livelihoods.
