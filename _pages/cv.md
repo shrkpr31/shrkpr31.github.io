@@ -10,4 +10,3 @@ toc:
   sidebar: left
 ---
 
-{% include cv.yml %}
