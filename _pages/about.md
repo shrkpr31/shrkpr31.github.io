@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Academic Associate (Economics) at the Indian School of Business, Mohali, where I assist faculty in course deliveryand academic support across a range of subjects including, Managerial Economics, The Business of Food, Artificial Intelligence for Business and Society, Economics for Small and Medium Enterprises, Designing Markets, and Market Competition and Antitrust Policies.
+I am an Academic Associate (Economics) at the Indian School of Business, Mohali, where I assist faculty in course delivery and provide academic support across a range of subjects including, Managerial Economics, The Business of Food, Artificial Intelligence for Business and Society, Economics for Small and Medium Enterprises, Designing Markets, and Market Competition and Antitrust Policies.
 
 Previously, I worked as a Research Fellow at Plaksha University, assisting faculty in both teaching and research. I supported courses in Advanced Microeconomics, Econometrics, and Macroeconomic Development, and contributed to research on credit enforcement, resource misallocation, income disparities across Indian states, and the economic implications of the 2020 Labour Code reforms.
 
