@@ -26,16 +26,17 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<a class="btn btn-outline-primary"
-   href="/assets/pdf/Shreya_Kapoor_resume.pdf"
-   target="_blank">
-  <i class="fas fa-file-pdf"></i> Download CV
-</a>
+<div style="text-align: right; margin-bottom: 10px;">
+  <a class="btn btn-outline-primary btn-sm"
+     href="/assets/pdf/Shreya_Kapoor_resume.pdf"
+     target="_blank">
+    <i class="fas fa-file-pdf"></i> Download CV
+  </a>
+</div>
+
 
 I am an Academic Associate (Economics) at the Indian School of Business, Mohali, where I assist faculty in course delivery and provide academic support across a range of subjects including, Managerial Economics, The Business of Food, Artificial Intelligence for Business and Society, Economics for Small and Medium Enterprises, Designing Markets, and Market Competition and Antitrust Policies.
 
 Previously, I worked as a Research Fellow at Plaksha University, assisting faculty in both teaching and research. I supported courses in Advanced Microeconomics, Econometrics, and Macroeconomic Development, and contributed to research on credit enforcement, resource misallocation, income disparities across Indian states, and the economic implications of the 2020 Labour Code reforms.
 
 I hold a Master’s degree in Economics with specialization in Development Studies from Symbiosis International University. My research interests lie in development economics, applied econometrics, agriculture, and rural livelihoods. I have also worked at the International Food Policy Research Institute (IFPRI), New Delhi, where I contributed to projects on climate-smart agriculture, poverty alleviation, food security and sustainability, and employment and unemployment dynamics.
-
-[Click here for my resume](/assets/pdf/Shreya_Kapoor_resume.pdf)
