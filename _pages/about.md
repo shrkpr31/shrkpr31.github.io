@@ -26,7 +26,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="float: right; margin-top: -50px;">
+<div style="float: right; margin-top: -60px;">
   <a href="/assets/pdf/Shreya_Kapoor_resume.pdf"
      target="_blank"
      title="Download CV">
