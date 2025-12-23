@@ -9,4 +9,4 @@ description:
 toc:
   sidebar: left
 ---
-%{_data/cv.yml}%
+{% _data/cv.yml %}
