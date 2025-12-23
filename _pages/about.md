@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am working as an Academic Associate  (Economics) at Indian School of Business, Mohali.
+I am working as an Academic Associate  (Economics) at Indian School of Business, Mohali. I am assisting faculties with courses like Managerial Economics, The Business of Food, Economics for Small and Medium Enterprises, Artificial Intelligence for Business and Society, Designing Markets, and Market Competition and Antitrust Policy.
