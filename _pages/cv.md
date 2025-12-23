@@ -11,3 +11,5 @@ toc:
 ---
 
 % {_includes/cv/} %
+
+%{_data/cv.yml}%
