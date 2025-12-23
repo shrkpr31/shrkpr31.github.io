@@ -26,11 +26,11 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="text-align: right; margin-bottom: 10px;">
-  <a class="btn btn-outline-primary btn-sm"
-     href="/assets/pdf/Shreya_Kapoor_resume.pdf"
-     target="_blank">
-    <i class="fas fa-file-pdf"></i> Download CV
+<div style="float: right; margin-top: -10px; margin-bottom: 6px;">
+  <a href="/assets/pdf/Shreya_Kapoor_resume.pdf"
+     target="_blank"
+     title="Download CV">
+    <i class="fas fa-file-pdf fa-lg"></i>
   </a>
 </div>
 
