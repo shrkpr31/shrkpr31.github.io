@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-has-bhoo-chetna-rejuvenated-agriculture-in-karnataka-an-impact-assessment",
           title: 'Has Bhoo-chetna rejuvenated agriculture in Karnataka? An impact assessment',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-consortium-for-scaling-up-climate-smart-agriculture-in-south-asia",
