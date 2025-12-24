@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Has Bhoo-chetna rejuvenated agriculture in Karnataka? An impact assessment
 description: with background image
 img: assets/img/12.jpg
 importance: 1
