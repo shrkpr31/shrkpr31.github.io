@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Courses Assisted as Academic Associate
+title: Courses Assisted as an Academic Associate
 description: 
 nav: true
 nav_order: 4
