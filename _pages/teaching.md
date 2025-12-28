@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: courses assisted with faculties
 nav: true
 nav_order: 4
 ---
