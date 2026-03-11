@@ -18,3 +18,4 @@ nav_order: 3
 1. Advanced Microeconomics
 2. Finance
 3. Macro Development
+4. Econometrics
